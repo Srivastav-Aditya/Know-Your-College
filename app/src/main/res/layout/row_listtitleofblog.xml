@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="listtitleofblogRowModel" type="com.adityasapplication.app.modules.collegedetails.data.model.ListtitleofblogRowModel"/>
+    </data>
+    <LinearLayout android:gravity="start"
+        android:id="@+id/linearColumntitleofblog"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical" style="@style/groupStylecornerRadius">
+        <TextView android:ellipsize="end"
+            android:id="@+id/txtTitleofBlog"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_10pxh"
+            android:layout_width="wrap_content"
+            android:singleLine="true"
+            android:text="@{listtitleofblogRowModel.txtTitleofBlog}"
+            style="@style/txtMontserratromansemibold20" tools:text="@string/lbl_title_of_blog"/>
+        <LinearLayout android:gravity="start"
+            android:id="@+id/linearColumnphoto"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_2pxv"
+            android:layout_width="match_parent"
+            android:orientation="vertical" style="@style/groupStylegray_901cornerRadius">
+            <TextView android:ellipsize="end" android:id="@+id/txtPhoto"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_11pxh"
+                android:layout_marginStart="@dimen/_11pxh"
+                android:layout_marginTop="@dimen/_12pxv"
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:text="@{listtitleofblogRowModel.txtPhoto}"
+                style="@style/txtMontserratromansemibold12" tools:text="@string/lbl_photo"/>
+            <TextView android:id="@+id/txtPhotoCLicking"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_109pxv"
+                android:layout_marginEnd="@dimen/_11pxh"
+                android:layout_marginStart="@dimen/_11pxh"
+                android:layout_width="wrap_content"
+                android:text="@{listtitleofblogRowModel.txtPhotoCLicking}"
+                style="@style/txtMontserratromansemibold12" tools:text="@string/msg_photo_clicking"/>
+        </LinearLayout>
+    </LinearLayout>
+</layout>

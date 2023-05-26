@@ -1,0 +1,200 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.adityasapplication.app"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="23"
+8-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:3:5-66
+11-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:3:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:4:5-78
+12-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:4:22-76
+13
+14    <permission
+14-->[androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:22:5-24:47
+15        android:name="com.adityasapplication.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+15-->[androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:23:9-81
+16        android:protectionLevel="signature" />
+16-->[androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:24:9-44
+17
+18    <uses-permission android:name="com.adityasapplication.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+18-->[androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:26:5-97
+18-->[androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:26:22-94
+19
+20    <application
+20-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:5:5-52:19
+21        android:name="com.adityasapplication.app.appcomponents.di.MyApp"
+21-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:8:9-73
+22        android:allowBackup="false"
+22-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:5:18-45
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:28:18-86
+24        android:debuggable="true"
+25        android:extractNativeLibs="false"
+26        android:icon="@mipmap/ic_launcher"
+26-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:6:9-43
+27        android:label="@string/app_name"
+27-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:7:9-41
+28        android:largeHeap="true"
+28-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:7:42-66
+29        android:roundIcon="@mipmap/ic_launcher_round"
+29-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:9:9-54
+30        android:supportsRtl="true"
+30-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:10:9-35
+31        android:theme="@style/Theme.MyApp"
+31-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:10:36-70
+32        android:usesCleartextTraffic="true" >
+32-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:10:71-106
+33        <activity
+33-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:11:9-12:126
+34            android:name="com.adityasapplication.app.modules.search.ui.SearchActivity"
+34-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:12:13-87
+35            android:screenOrientation="portrait" />
+35-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:12:88-124
+36        <activity
+36-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:13:9-14:146
+37            android:name="com.adityasapplication.app.modules.collegepredictor.ui.CollegePredictorActivity"
+37-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:14:13-107
+38            android:screenOrientation="portrait" />
+38-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:14:108-144
+39        <activity
+39-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:15:9-16:120
+40            android:name="com.adityasapplication.app.modules.qna.ui.QnaActivity"
+40-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:16:13-81
+41            android:screenOrientation="portrait" />
+41-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:16:82-118
+42        <activity
+42-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:17:9-18:158
+43            android:name="com.adityasapplication.app.modules.livesessionloginscreen.ui.LiveSessionLoginScreenActivity"
+43-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:18:13-119
+44            android:screenOrientation="portrait" />
+44-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:18:120-156
+45        <activity
+45-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:19:9-20:122
+46            android:name="com.adityasapplication.app.modules.menu.ui.MenuActivity"
+46-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:20:13-83
+47            android:screenOrientation="portrait" />
+47-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:20:84-120
+48        <activity
+48-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:21:9-22:138
+49            android:name="com.adityasapplication.app.modules.menunotlogin.ui.MenuNotLogInActivity"
+49-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:22:13-99
+50            android:screenOrientation="portrait" />
+50-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:22:100-136
+51        <activity
+51-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:23:9-24:128
+52            android:name="com.adityasapplication.app.modules.aboutus.ui.AboutUsActivity"
+52-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:24:13-89
+53            android:screenOrientation="portrait" />
+53-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:24:90-126
+54        <activity
+54-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:25:9-26:166
+55            android:name="com.adityasapplication.app.modules.sessiontoconnectwithmentor.ui.SessionToConnectWithMentorActivity"
+55-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:26:13-127
+56            android:screenOrientation="portrait" />
+56-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:26:128-164
+57        <activity
+57-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:27:9-28:144
+58            android:name="com.adityasapplication.app.modules.profilenotlogin.ui.ProfileNotLogInActivity"
+58-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:28:13-105
+59            android:screenOrientation="portrait" />
+59-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:28:106-142
+60        <activity
+60-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:29:9-30:184
+61            android:name="com.adityasapplication.app.modules.collegedetailsaftercollegepredictor.ui.CollegeDetailsAfterCollegePredictorActivity"
+61-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:30:13-145
+62            android:screenOrientation="portrait" />
+62-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:30:146-182
+63        <activity
+63-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:31:9-32:142
+64            android:name="com.adityasapplication.app.modules.collegedetails.ui.CollegeDetailsActivity"
+64-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:32:13-103
+65            android:screenOrientation="portrait" />
+65-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:32:104-140
+66        <activity
+66-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:33:9-34:128
+67            android:name="com.adityasapplication.app.modules.profile.ui.ProfileActivity"
+67-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:34:13-89
+68            android:screenOrientation="portrait" />
+68-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:34:90-126
+69        <activity
+69-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:35:9-36:148
+70            android:name="com.adityasapplication.app.modules.searchsuggestions.ui.SearchSuggestionsActivity"
+70-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:36:13-109
+71            android:screenOrientation="portrait" />
+71-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:36:110-146
+72        <activity
+72-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:37:9-38:170
+73            android:name="com.adityasapplication.app.modules.whenopenedaparticularcollege.ui.WhenOpenedAParticularCollegeActivity"
+73-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:38:13-131
+74            android:screenOrientation="portrait" />
+74-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:38:132-168
+75        <activity
+75-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:39:9-40:138
+76            android:name="com.adityasapplication.app.modules.mentorsignup.ui.MentorSignupActivity"
+76-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:40:13-99
+77            android:screenOrientation="portrait" />
+77-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:40:100-136
+78        <activity
+78-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:41:9-47:20
+79            android:name="com.adityasapplication.app.modules.homepage.ui.HomePageActivity"
+79-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:42:13-91
+80            android:exported="true"
+80-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:41:19-42
+81            android:screenOrientation="portrait" >
+81-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:42:92-128
+82            <intent-filter>
+82-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:43:13-46:29
+83                <action android:name="android.intent.action.MAIN" />
+83-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:44:17-68
+83-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:44:25-66
+84
+85                <category android:name="android.intent.category.LAUNCHER" />
+85-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:45:17-76
+85-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:45:27-74
+86            </intent-filter>
+87        </activity>
+88        <activity
+88-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:48:9-49:140
+89            android:name="com.adityasapplication.app.modules.mentorprofile.ui.MentorProfileActivity"
+89-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:49:13-101
+90            android:screenOrientation="portrait" />
+90-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:49:102-138
+91        <activity
+91-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:50:9-51:136
+92            android:name="com.adityasapplication.app.modules.livesession.ui.LiveSessionActivity"
+92-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:51:13-97
+93            android:screenOrientation="portrait" />
+93-->D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:51:98-134
+94
+95        <provider
+95-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+96            android:name="androidx.startup.InitializationProvider"
+96-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+97            android:authorities="com.adityasapplication.app.androidx-startup"
+97-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+98            android:exported="false" >
+98-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+99            <meta-data
+99-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+100                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+100-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+101                android:value="androidx.startup" />
+101-->[androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+102            <meta-data
+102-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+103                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+103-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+104                android:value="androidx.startup" />
+104-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+105        </provider>
+106    </application>
+107
+108</manifest>

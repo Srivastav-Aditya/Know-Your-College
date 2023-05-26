@@ -1,0 +1,3 @@
+com.adityasapplication.app.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

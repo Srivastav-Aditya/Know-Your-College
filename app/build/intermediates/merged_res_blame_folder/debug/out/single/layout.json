@@ -1,0 +1,94 @@
+[
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_qna.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_qna.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_mentor_signup.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_mentor_signup.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/row_listuser.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/row_listuser.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_about_us.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_college_details_after_college_predictor.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_college_details_after_college_predictor.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/spinner_item.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_when_opened_a_particular_college.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_when_opened_a_particular_college.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/row_listnameofcollege.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/row_listnameofcollege.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_profile.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_college_predictor.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_college_predictor.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_menu_not_log_in.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_menu_not_log_in.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_session_to_connect_with_mentor.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_session_to_connect_with_mentor.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_college_details.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_college_details.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_live_session_login_screen.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_live_session_login_screen.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/layout_progress_dialog.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/layout_progress_dialog.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_search.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_live_session.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_live_session.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/row_listtitleofblog.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/row_listtitleofblog.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_mentor_profile.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_mentor_profile.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_menu.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_search_suggestions.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_search_suggestions.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_home_page.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-mergeDebugResources-42:/layout/activity_profile_not_log_in.xml",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_profile_not_log_in.xml"
+    }
+]

@@ -1,0 +1,463 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1e1a3a3b257af34cf82dbeed87c257cf\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\4052720a884f1fd8a123cc5d8e6ef71e\transformed\jetified-databinding-ktx-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\3a0263ae7d6c12ea9294357da2d4b3ca\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fcc8182eec2ba55e14d5e80f78f6c033\transformed\material-1.7.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ADITYA\.gradle\caches\transforms-3\6fa7f59c23aeb2b4b57bfb6b2207ce49\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [io.insert-koin:koin-androidx-viewmodel:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\9157eecf87aa3bc7cc9b26acdddc8f63\transformed\jetified-koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:2:1-9:12
+MERGED from [io.insert-koin:koin-androidx-scope:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\f89d467c9795bd298998d6e7251e7f81\transformed\jetified-koin-androidx-scope-2.1.6\AndroidManifest.xml:2:1-9:12
+MERGED from [com.github.mukeshsolanki:android-otpview-pinview:2.1.2] C:\Users\ADITYA\.gradle\caches\transforms-3\075a621a0943f3ca6498d194994c5e51\transformed\jetified-android-otpview-pinview-2.1.2\AndroidManifest.xml:2:1-11:12
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\9403a76ab3bfcd605a893cf0515ba16a\transformed\jetified-lottie-3.4.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\9377cb6af6853539f24a6d02058a39c9\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\c57cd63ab53a1108305ace8bf5c994ba\transformed\appcompat-1.5.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\ADITYA\.gradle\caches\transforms-3\702cad983215eca39fb7743710a0c966\transformed\jetified-fragment-ktx-1.5.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\45ea73bfabe21afcf6bb944a0275d6a8\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\a6f2addd8380b04a223eb67c2e824ee3\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2bb638e9d254bade98fd9ff13d3ef003\transformed\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\ebb27e6e44223e7d55d56b5c96ffb50c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\ADITYA\.gradle\caches\transforms-3\dec32f5ac3bf8c377af090975ec14c9e\transformed\fragment-1.5.5\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1f76fe08caca7ed59afe1a7166e1d07b\transformed\jetified-activity-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\ADITYA\.gradle\caches\transforms-3\043cd6a4d50e004f893aa0bdba539282\transformed\jetified-activity-ktx-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\d5c67ed40d58aafbfd657170c99bfa1c\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\1e46d13ff42e9991f289d648b1e97ccd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\37d51b7e9390282916aad40cc6c2f714\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\83570926b93b1ed31cfddcbf8a0b5631\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\79638611f93ca34c0e4af3bf1e78b3cc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2220221edd64b1cef28db5cb18ea4266\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6d81272fde9301f6152160c9a7a613c1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3a1267595c178084ed7cde897338f9f0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\07f774c71a9172769ce5b5247f38c64e\transformed\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\8b0690a7895e8c3962ecdd867eceff43\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fc7af18753ab16adb3ad4f4e7fd203eb\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4a52de525211ab49927a2205f08b66df\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\e2121006b36e28a3ed2a48c1d9eea908\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\33ff5296a4f8027a378aaea918828634\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3f82a429952498f35ddb81934a1f99e0\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f022ac1fd0fe55c910bcb2eae3e14052\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6dbea5b2494f1a75f098d23be3173d84\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\7eb70e6317f7b5e84806037cd2397999\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\317608dc6a21075a2dd5721935901044\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e6d4b0862e9bdc61c46c7c71a8c54137\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\645ce49b81d5f53b2b5c9100f0d648df\transformed\jetified-core-ktx-1.12.0-alpha04\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f1a24b43252f8985a5a6a3bf250109d5\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [io.insert-koin:koin-android:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\fe59724e36dd051917d89860ebbed3bb\transformed\jetified-koin-android-2.1.6\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\a6c9c642242a4acc92f3dea429c09138\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\e7f60aa07ac026c618130faf98a46a12\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\a01c657e4271274bf3994a88d396d55f\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1c5581d2e892b064797cfea7b4eca1ee\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4997aec628cee3993f216a8df5329be2\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.security:security-crypto:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\36409a32bae3922c621dd7b91697351c\transformed\jetified-security-crypto-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\371dedcf8283b61daa6ba79f2171da51\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4b1a54982d4c354942bf2f7ec6b421df\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\6f4dcf259ecc5a5566f5341be0b95960\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f66f78044e150277dff48b11e92023e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\858b41731f83aa12640393d779b9b830\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\a5b91f83aa79471dd509d5b44ebc1604\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\cb6f9db1bbd26489235d876ed5f76bb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\39b215bdaf41ab081715828f474ac978\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6f2ea5b8715c1f5dc5c8af3151a5b8a7\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\5f773ebd6ea4b311c63ec008c33efd03\transformed\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3eecbdf8515e4b16d8773f189a733d56\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e781af33baf52a62afd04a1fad94cf1b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\b4499be9ffe7db8817ac76c5c6cb5e50\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f9ebec03198fa40fa51fa4cb206ee0fa\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\b2a11364636551678a49adc4f179178e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\ab34f7f3c286c21a914766be16764cfc\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+	package
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:11-47
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:1-53:12
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:2:48-106
+uses-permission#android.permission.INTERNET
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:3:5-66
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:3:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:4:5-78
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:4:22-76
+application
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:5:5-52:19
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fcc8182eec2ba55e14d5e80f78f6c033\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fcc8182eec2ba55e14d5e80f78f6c033\transformed\material-1.7.0\AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ADITYA\.gradle\caches\transforms-3\6fa7f59c23aeb2b4b57bfb6b2207ce49\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ADITYA\.gradle\caches\transforms-3\6fa7f59c23aeb2b4b57bfb6b2207ce49\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [io.insert-koin:koin-androidx-viewmodel:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\9157eecf87aa3bc7cc9b26acdddc8f63\transformed\jetified-koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-androidx-viewmodel:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\9157eecf87aa3bc7cc9b26acdddc8f63\transformed\jetified-koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-androidx-scope:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\f89d467c9795bd298998d6e7251e7f81\transformed\jetified-koin-androidx-scope-2.1.6\AndroidManifest.xml:7:5-20
+MERGED from [io.insert-koin:koin-androidx-scope:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\f89d467c9795bd298998d6e7251e7f81\transformed\jetified-koin-androidx-scope-2.1.6\AndroidManifest.xml:7:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\9403a76ab3bfcd605a893cf0515ba16a\transformed\jetified-lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\9403a76ab3bfcd605a893cf0515ba16a\transformed\jetified-lottie-3.4.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\45ea73bfabe21afcf6bb944a0275d6a8\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\45ea73bfabe21afcf6bb944a0275d6a8\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2bb638e9d254bade98fd9ff13d3ef003\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2bb638e9d254bade98fd9ff13d3ef003\transformed\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:25:5-35:19
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6f2ea5b8715c1f5dc5c8af3151a5b8a7\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6f2ea5b8715c1f5dc5c8af3151a5b8a7\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e781af33baf52a62afd04a1fad94cf1b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e781af33baf52a62afd04a1fad94cf1b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:7:9-41
+	android:roundIcon
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:9:9-54
+	android:largeHeap
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:7:42-66
+	android:icon
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:6:9-43
+	android:allowBackup
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:5:18-45
+	android:theme
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:10:36-70
+	android:usesCleartextTraffic
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:10:71-106
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:8:9-73
+activity#com.adityasapplication.app.modules.search.ui.SearchActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:11:9-12:126
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:12:88-124
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:12:13-87
+activity#com.adityasapplication.app.modules.collegepredictor.ui.CollegePredictorActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:13:9-14:146
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:14:108-144
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:14:13-107
+activity#com.adityasapplication.app.modules.qna.ui.QnaActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:15:9-16:120
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:16:82-118
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:16:13-81
+activity#com.adityasapplication.app.modules.livesessionloginscreen.ui.LiveSessionLoginScreenActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:17:9-18:158
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:18:120-156
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:18:13-119
+activity#com.adityasapplication.app.modules.menu.ui.MenuActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:19:9-20:122
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:20:84-120
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:20:13-83
+activity#com.adityasapplication.app.modules.menunotlogin.ui.MenuNotLogInActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:21:9-22:138
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:22:100-136
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:22:13-99
+activity#com.adityasapplication.app.modules.aboutus.ui.AboutUsActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:23:9-24:128
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:24:90-126
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:24:13-89
+activity#com.adityasapplication.app.modules.sessiontoconnectwithmentor.ui.SessionToConnectWithMentorActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:25:9-26:166
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:26:128-164
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:26:13-127
+activity#com.adityasapplication.app.modules.profilenotlogin.ui.ProfileNotLogInActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:27:9-28:144
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:28:106-142
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:28:13-105
+activity#com.adityasapplication.app.modules.collegedetailsaftercollegepredictor.ui.CollegeDetailsAfterCollegePredictorActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:29:9-30:184
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:30:146-182
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:30:13-145
+activity#com.adityasapplication.app.modules.collegedetails.ui.CollegeDetailsActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:31:9-32:142
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:32:104-140
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:32:13-103
+activity#com.adityasapplication.app.modules.profile.ui.ProfileActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:33:9-34:128
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:34:90-126
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:34:13-89
+activity#com.adityasapplication.app.modules.searchsuggestions.ui.SearchSuggestionsActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:35:9-36:148
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:36:110-146
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:36:13-109
+activity#com.adityasapplication.app.modules.whenopenedaparticularcollege.ui.WhenOpenedAParticularCollegeActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:37:9-38:170
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:38:132-168
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:38:13-131
+activity#com.adityasapplication.app.modules.mentorsignup.ui.MentorSignupActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:39:9-40:138
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:40:100-136
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:40:13-99
+activity#com.adityasapplication.app.modules.homepage.ui.HomePageActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:41:9-47:20
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:42:92-128
+	android:exported
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:41:19-42
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:42:13-91
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:43:13-46:29
+action#android.intent.action.MAIN
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:44:17-68
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:44:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:45:17-76
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:45:27-74
+activity#com.adityasapplication.app.modules.mentorprofile.ui.MentorProfileActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:48:9-49:140
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:49:102-138
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:49:13-101
+activity#com.adityasapplication.app.modules.livesession.ui.LiveSessionActivity
+ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:50:9-51:136
+	android:screenOrientation
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:51:98-134
+	android:name
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml:51:13-97
+uses-sdk
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1e1a3a3b257af34cf82dbeed87c257cf\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-adapters:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1e1a3a3b257af34cf82dbeed87c257cf\transformed\databinding-adapters-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\4052720a884f1fd8a123cc5d8e6ef71e\transformed\jetified-databinding-ktx-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-ktx:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\4052720a884f1fd8a123cc5d8e6ef71e\transformed\jetified-databinding-ktx-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\3a0263ae7d6c12ea9294357da2d4b3ca\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:databinding-runtime:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\3a0263ae7d6c12ea9294357da2d4b3ca\transformed\databinding-runtime-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fcc8182eec2ba55e14d5e80f78f6c033\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fcc8182eec2ba55e14d5e80f78f6c033\transformed\material-1.7.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ADITYA\.gradle\caches\transforms-3\6fa7f59c23aeb2b4b57bfb6b2207ce49\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] C:\Users\ADITYA\.gradle\caches\transforms-3\6fa7f59c23aeb2b4b57bfb6b2207ce49\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [io.insert-koin:koin-androidx-viewmodel:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\9157eecf87aa3bc7cc9b26acdddc8f63\transformed\jetified-koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-viewmodel:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\9157eecf87aa3bc7cc9b26acdddc8f63\transformed\jetified-koin-androidx-viewmodel-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-scope:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\f89d467c9795bd298998d6e7251e7f81\transformed\jetified-koin-androidx-scope-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-androidx-scope:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\f89d467c9795bd298998d6e7251e7f81\transformed\jetified-koin-androidx-scope-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [com.github.mukeshsolanki:android-otpview-pinview:2.1.2] C:\Users\ADITYA\.gradle\caches\transforms-3\075a621a0943f3ca6498d194994c5e51\transformed\jetified-android-otpview-pinview-2.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.mukeshsolanki:android-otpview-pinview:2.1.2] C:\Users\ADITYA\.gradle\caches\transforms-3\075a621a0943f3ca6498d194994c5e51\transformed\jetified-android-otpview-pinview-2.1.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\9403a76ab3bfcd605a893cf0515ba16a\transformed\jetified-lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.airbnb.android:lottie:3.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\9403a76ab3bfcd605a893cf0515ba16a\transformed\jetified-lottie-3.4.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\9377cb6af6853539f24a6d02058a39c9\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\9377cb6af6853539f24a6d02058a39c9\transformed\jetified-appcompat-resources-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\c57cd63ab53a1108305ace8bf5c994ba\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\c57cd63ab53a1108305ace8bf5c994ba\transformed\appcompat-1.5.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\ADITYA\.gradle\caches\transforms-3\702cad983215eca39fb7743710a0c966\transformed\jetified-fragment-ktx-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.5.5] C:\Users\ADITYA\.gradle\caches\transforms-3\702cad983215eca39fb7743710a0c966\transformed\jetified-fragment-ktx-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\45ea73bfabe21afcf6bb944a0275d6a8\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\45ea73bfabe21afcf6bb944a0275d6a8\transformed\lifecycle-extensions-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\a6f2addd8380b04a223eb67c2e824ee3\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\a6f2addd8380b04a223eb67c2e824ee3\transformed\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2bb638e9d254bade98fd9ff13d3ef003\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2bb638e9d254bade98fd9ff13d3ef003\transformed\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\ebb27e6e44223e7d55d56b5c96ffb50c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\ebb27e6e44223e7d55d56b5c96ffb50c\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\ADITYA\.gradle\caches\transforms-3\dec32f5ac3bf8c377af090975ec14c9e\transformed\fragment-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.5.5] C:\Users\ADITYA\.gradle\caches\transforms-3\dec32f5ac3bf8c377af090975ec14c9e\transformed\fragment-1.5.5\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1f76fe08caca7ed59afe1a7166e1d07b\transformed\jetified-activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.6.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1f76fe08caca7ed59afe1a7166e1d07b\transformed\jetified-activity-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\ADITYA\.gradle\caches\transforms-3\043cd6a4d50e004f893aa0bdba539282\transformed\jetified-activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-ktx:1.6.1] C:\Users\ADITYA\.gradle\caches\transforms-3\043cd6a4d50e004f893aa0bdba539282\transformed\jetified-activity-ktx-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\d5c67ed40d58aafbfd657170c99bfa1c\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\d5c67ed40d58aafbfd657170c99bfa1c\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\1e46d13ff42e9991f289d648b1e97ccd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\1e46d13ff42e9991f289d648b1e97ccd\transformed\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\37d51b7e9390282916aad40cc6c2f714\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\37d51b7e9390282916aad40cc6c2f714\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\83570926b93b1ed31cfddcbf8a0b5631\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\83570926b93b1ed31cfddcbf8a0b5631\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\79638611f93ca34c0e4af3bf1e78b3cc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\79638611f93ca34c0e4af3bf1e78b3cc\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2220221edd64b1cef28db5cb18ea4266\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\2220221edd64b1cef28db5cb18ea4266\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6d81272fde9301f6152160c9a7a613c1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6d81272fde9301f6152160c9a7a613c1\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3a1267595c178084ed7cde897338f9f0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3a1267595c178084ed7cde897338f9f0\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\07f774c71a9172769ce5b5247f38c64e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\07f774c71a9172769ce5b5247f38c64e\transformed\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\8b0690a7895e8c3962ecdd867eceff43\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\8b0690a7895e8c3962ecdd867eceff43\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fc7af18753ab16adb3ad4f4e7fd203eb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\fc7af18753ab16adb3ad4f4e7fd203eb\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4a52de525211ab49927a2205f08b66df\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4a52de525211ab49927a2205f08b66df\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\e2121006b36e28a3ed2a48c1d9eea908\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\e2121006b36e28a3ed2a48c1d9eea908\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\33ff5296a4f8027a378aaea918828634\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\33ff5296a4f8027a378aaea918828634\transformed\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3f82a429952498f35ddb81934a1f99e0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3f82a429952498f35ddb81934a1f99e0\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f022ac1fd0fe55c910bcb2eae3e14052\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f022ac1fd0fe55c910bcb2eae3e14052\transformed\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6dbea5b2494f1a75f098d23be3173d84\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6dbea5b2494f1a75f098d23be3173d84\transformed\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\7eb70e6317f7b5e84806037cd2397999\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\7eb70e6317f7b5e84806037cd2397999\transformed\jetified-lifecycle-viewmodel-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\317608dc6a21075a2dd5721935901044\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\317608dc6a21075a2dd5721935901044\transformed\lifecycle-viewmodel-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e6d4b0862e9bdc61c46c7c71a8c54137\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e6d4b0862e9bdc61c46c7c71a8c54137\transformed\jetified-lifecycle-viewmodel-savedstate-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\645ce49b81d5f53b2b5c9100f0d648df\transformed\jetified-core-ktx-1.12.0-alpha04\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\645ce49b81d5f53b2b5c9100f0d648df\transformed\jetified-core-ktx-1.12.0-alpha04\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f1a24b43252f8985a5a6a3bf250109d5\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-ktx:2.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f1a24b43252f8985a5a6a3bf250109d5\transformed\jetified-lifecycle-livedata-ktx-2.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [io.insert-koin:koin-android:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\fe59724e36dd051917d89860ebbed3bb\transformed\jetified-koin-android-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [io.insert-koin:koin-android:2.1.6] C:\Users\ADITYA\.gradle\caches\transforms-3\fe59724e36dd051917d89860ebbed3bb\transformed\jetified-koin-android-2.1.6\AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\a6c9c642242a4acc92f3dea429c09138\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\a6c9c642242a4acc92f3dea429c09138\transformed\jetified-savedstate-ktx-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\e7f60aa07ac026c618130faf98a46a12\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\e7f60aa07ac026c618130faf98a46a12\transformed\jetified-savedstate-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\a01c657e4271274bf3994a88d396d55f\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\a01c657e4271274bf3994a88d396d55f\transformed\jetified-lifecycle-runtime-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1c5581d2e892b064797cfea7b4eca1ee\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\1c5581d2e892b064797cfea7b4eca1ee\transformed\jetified-lifecycle-livedata-core-ktx-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4997aec628cee3993f216a8df5329be2\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4997aec628cee3993f216a8df5329be2\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.security:security-crypto:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\36409a32bae3922c621dd7b91697351c\transformed\jetified-security-crypto-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.security:security-crypto:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\36409a32bae3922c621dd7b91697351c\transformed\jetified-security-crypto-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\371dedcf8283b61daa6ba79f2171da51\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.databinding:viewbinding:7.3.1] C:\Users\ADITYA\.gradle\caches\transforms-3\371dedcf8283b61daa6ba79f2171da51\transformed\jetified-viewbinding-7.3.1\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4b1a54982d4c354942bf2f7ec6b421df\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\4b1a54982d4c354942bf2f7ec6b421df\transformed\jetified-lifecycle-service-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\6f4dcf259ecc5a5566f5341be0b95960\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\6f4dcf259ecc5a5566f5341be0b95960\transformed\lifecycle-runtime-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f66f78044e150277dff48b11e92023e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f66f78044e150277dff48b11e92023e2\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\858b41731f83aa12640393d779b9b830\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.4.0] C:\Users\ADITYA\.gradle\caches\transforms-3\858b41731f83aa12640393d779b9b830\transformed\lifecycle-livedata-2.4.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\a5b91f83aa79471dd509d5b44ebc1604\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] C:\Users\ADITYA\.gradle\caches\transforms-3\a5b91f83aa79471dd509d5b44ebc1604\transformed\lifecycle-livedata-core-2.5.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\cb6f9db1bbd26489235d876ed5f76bb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\ADITYA\.gradle\caches\transforms-3\cb6f9db1bbd26489235d876ed5f76bb3\transformed\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\39b215bdaf41ab081715828f474ac978\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\39b215bdaf41ab081715828f474ac978\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6f2ea5b8715c1f5dc5c8af3151a5b8a7\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\ADITYA\.gradle\caches\transforms-3\6f2ea5b8715c1f5dc5c8af3151a5b8a7\transformed\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\5f773ebd6ea4b311c63ec008c33efd03\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\5f773ebd6ea4b311c63ec008c33efd03\transformed\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3eecbdf8515e4b16d8773f189a733d56\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\3eecbdf8515e4b16d8773f189a733d56\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e781af33baf52a62afd04a1fad94cf1b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\e781af33baf52a62afd04a1fad94cf1b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\b4499be9ffe7db8817ac76c5c6cb5e50\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\b4499be9ffe7db8817ac76c5c6cb5e50\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f9ebec03198fa40fa51fa4cb206ee0fa\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\f9ebec03198fa40fa51fa4cb206ee0fa\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\b2a11364636551678a49adc4f179178e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\b2a11364636551678a49adc4f179178e\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\ab34f7f3c286c21a914766be16764cfc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\ADITYA\.gradle\caches\transforms-3\ab34f7f3c286c21a914766be16764cfc\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		ADDED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+		INJECTED from D:\dw\aditya_s_application3(3)\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] C:\Users\ADITYA\.gradle\caches\transforms-3\43a0e5a34f73f5a71040b73bd73751a8\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] C:\Users\ADITYA\.gradle\caches\transforms-3\313379e31d7b651daff8d92794948fda\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:23:9-81
+permission#com.adityasapplication.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:26:22-94
+uses-permission#com.adityasapplication.app.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0-alpha04] C:\Users\ADITYA\.gradle\caches\transforms-3\b67e89e805f35030df500e1700dc3cd4\transformed\core-1.12.0-alpha04\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\ADITYA\.gradle\caches\transforms-3\784c801e8e2f8b365fb45fe94bcac1d6\transformed\jetified-lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78

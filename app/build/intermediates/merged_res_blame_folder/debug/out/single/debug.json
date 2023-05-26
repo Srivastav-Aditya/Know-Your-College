@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_profile.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_profile.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_900_radius_7.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_900_radius_7.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_search_suggestions.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_search_suggestions.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_search.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_search.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/font_montserratromanlight.ttf.flat",
+        "source": "com.adityasapplication.app-main-45:/font/montserratromanlight.ttf"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_search_gray_400.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_search_gray_400.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_901_radius_13.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_901_radius_13.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_television.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_television.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_user_white_a700.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_user_white_a700.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_orange_a701_radius_19.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_orange_a701_radius_19.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_college_details_after_college_predictor.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_college_details_after_college_predictor.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_session_to_connect_with_mentor.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_session_to_connect_with_mentor.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_image_not_found.png.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/image_not_found.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_600_radius_5.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_600_radius_5.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_when_opened_a_particular_college.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_when_opened_a_particular_college.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_search_gray_601.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_search_gray_601.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_mentor_profile.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_mentor_profile.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_qna.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_qna.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_layout_progress_dialog.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/layout_progress_dialog.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_about_us.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_menu.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_menu.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_bluegray_900_radius_22.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_bluegray_900_radius_22.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_materialsymbol.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_materialsymbol.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_menu_not_log_in.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_menu_not_log_in.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_901_radius_11_58.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_901_radius_11_58.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_mentor_signup.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_mentor_signup.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_user.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_user.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/font_montserratregular.ttf.flat",
+        "source": "com.adityasapplication.app-main-45:/font/montserratregular.ttf"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_row_listnameofcollege.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/row_listnameofcollege.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_menu.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_menu.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_college_predictor.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_college_predictor.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_900_radius_13.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_900_radius_13.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_bluegray_100.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_bluegray_100.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_900.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_900.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_row_listtitleofblog.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/row_listtitleofblog.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/font_montserratromansemibold.ttf.flat",
+        "source": "com.adityasapplication.app-main-45:/font/montserratromansemibold.ttf"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_college_details.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_college_details.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_home_page.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_home_page.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_search.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_search.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_user_gray_903.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_user_gray_903.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_904.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_904.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/raw_lottie_loading.json.flat",
+        "source": "com.adityasapplication.app-main-45:/raw/lottie_loading.json"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_radius_13.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_radius_13.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_layer_list_bg_gray_901_radius_13.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/layer_list_bg_gray_901_radius_13.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_gray_100.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_gray_100.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_menu_gray_902.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_menu_gray_902.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_spinner_item.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/spinner_item.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.adityasapplication.app-pngs-38:/drawable-anydpi-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_arrowdown.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_arrowdown.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/font_montserratromanregular.ttf.flat",
+        "source": "com.adityasapplication.app-main-45:/font/montserratromanregular.ttf"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/font_montserrat.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/font/montserrat.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_plus.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_plus.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_live_session_login_screen.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_live_session_login_screen.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_row_listuser.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/row_listuser.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "com.adityasapplication.app-main-45:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_profile_not_log_in.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_profile_not_log_in.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/layout_activity_live_session.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/layout/activity_live_session.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_img_home.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/img_home.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_orange_a701_radius_24.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_orange_a701_radius_24.xml"
+    },
+    {
+        "merged": "com.adityasapplication.app-merged_res-43:/drawable_rectangle_bg_bluegray_901_radius_28_31.xml.flat",
+        "source": "com.adityasapplication.app-main-45:/drawable/rectangle_bg_bluegray_901_radius_28_31.xml"
+    }
+]

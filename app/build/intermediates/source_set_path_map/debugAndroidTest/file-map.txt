@@ -1,0 +1,9 @@
+com.adityasapplication.app.test.app-jetified-annotation-experimental-1.3.0-0 C:\Users\ADITYA\.gradle\caches\transforms-3\4997aec628cee3993f216a8df5329be2\transformed\jetified-annotation-experimental-1.3.0\res
+com.adityasapplication.app.test.app-jetified-core-1.5.0-1 C:\Users\ADITYA\.gradle\caches\transforms-3\9ce7fd1c6be8a618dc3fa0da257b449e\transformed\jetified-core-1.5.0\res
+com.adityasapplication.app.test.app-androidTest-2 D:\dw\aditya_s_application3(3)\app\build\generated\res\resValues\androidTest\debug
+com.adityasapplication.app.test.app-androidTest-3 D:\dw\aditya_s_application3(3)\app\build\generated\res\rs\androidTest\debug
+com.adityasapplication.app.test.app-mergeDebugAndroidTestResources-4 D:\dw\aditya_s_application3(3)\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\merged.dir
+com.adityasapplication.app.test.app-mergeDebugAndroidTestResources-5 D:\dw\aditya_s_application3(3)\app\build\intermediates\incremental\debugAndroidTest\mergeDebugAndroidTestResources\stripped.dir
+com.adityasapplication.app.test.app-merged_res-6 D:\dw\aditya_s_application3(3)\app\build\intermediates\merged_res\debugAndroidTest
+com.adityasapplication.app.test.app-androidTest-7 D:\dw\aditya_s_application3(3)\app\src\androidTest\res
+com.adityasapplication.app.test.app-androidTestDebug-8 D:\dw\aditya_s_application3(3)\app\src\androidTestDebug\res

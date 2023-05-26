@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<layout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+    <data>
+        <variable name="listnameofcollegeRowModel" type="com.adityasapplication.app.modules.collegedetailsaftercollegepredictor.data.model.ListnameofcollegeRowModel"/>
+    </data>
+    <LinearLayout android:gravity="start"
+        android:id="@+id/linearColumnnameofcollege"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:orientation="vertical" style="@style/groupStylecornerRadius">
+        <TextView android:ellipsize="end"
+            android:id="@+id/txtNameofCollege"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/_10pxh"
+            android:layout_width="match_parent"
+            android:singleLine="true"
+            android:text="@{listnameofcollegeRowModel.txtNameofCollege}"
+            style="@style/txtMontserratromansemibold20" tools:text="@string/msg_name_of_college"/>
+        <LinearLayout android:gravity="start"
+            android:id="@+id/linearColumnphoto"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="@dimen/_1pxv"
+            android:layout_width="match_parent"
+            android:orientation="vertical" style="@style/groupStylegray_901cornerRadius">
+            <TextView android:ellipsize="end" android:id="@+id/txtPhoto"
+                android:layout_height="wrap_content"
+                android:layout_marginEnd="@dimen/_11pxh"
+                android:layout_marginStart="@dimen/_11pxh"
+                android:layout_marginTop="@dimen/_12pxv"
+                android:layout_width="wrap_content"
+                android:singleLine="true"
+                android:text="@{listnameofcollegeRowModel.txtPhoto}"
+                style="@style/txtMontserratromansemibold12" tools:text="@string/lbl_photo"/>
+            <TextView android:id="@+id/txtPhotoCLicking"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="@dimen/_109pxv"
+                android:layout_marginEnd="@dimen/_11pxh"
+                android:layout_marginStart="@dimen/_11pxh"
+                android:layout_width="wrap_content"
+                android:text="@{listnameofcollegeRowModel.txtPhotoCLicking}"
+                style="@style/txtMontserratromansemibold12" tools:text="@string/msg_photo_clicking"/>
+        </LinearLayout>
+    </LinearLayout>
+</layout>

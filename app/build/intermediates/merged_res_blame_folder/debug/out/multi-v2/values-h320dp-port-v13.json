@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.adityasapplication.app-mergeDebugResources-41:/values-h320dp-port-v13/values-h320dp-port-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\ADITYA\\.gradle\\caches\\transforms-3\\fcc8182eec2ba55e14d5e80f78f6c033\\transformed\\material-1.7.0\\res\\values-h320dp-port-v13\\values-h320dp-port-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "75",
+                        "endOffsets": "126"
+                    }
+                }
+            ]
+        }
+    ]
+}
